@@ -17,8 +17,9 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Conocimientos en:</b>
 <br>
-<picture> <img align="right" src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" width = 200px></picture>
+
 <p align="center">
+  <picture> <img align="right" src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" width = 200px></picture>
   
 - **Lenguajes**:
     
